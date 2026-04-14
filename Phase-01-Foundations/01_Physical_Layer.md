@@ -1,4 +1,4 @@
-# Phase 1: The Physical Layer (Layer 1)
+# The Physical Layer (Layer 1)
 
 The Physical Layer is the absolute foundation of the OSI model. It focuses on the hardware, the cables, and the method of moving raw **bits** from one place to another.
 
