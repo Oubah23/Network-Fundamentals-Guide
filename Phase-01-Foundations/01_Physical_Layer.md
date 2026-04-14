@@ -4,7 +4,7 @@ The Physical Layer is the absolute foundation of the OSI model. It focuses on th
 
 ---
 
-## 🏗️ Essential Vocabulary
+## 🏗️ Essential Terms
 
 ### 1. Bit (Binary Digit)
 * **Definition:** The smallest unit of data in computing. 
