@@ -42,7 +42,6 @@ This is the "map" of how your devices are physically plugged in.
 * **Mesh Topology:** Every device connects to every other device. Very expensive, but offers the highest reliability.
 * **Bus Topology:** All devices share a single backbone cable. If the cable breaks, the entire network goes down.
 
-[Image of network topology types star mesh and bus]
 
 ---
 
